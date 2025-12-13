@@ -1,0 +1,7 @@
+chatterbot==1.2.0
+chatterbot-corpus==1.2.0
+pandas==2.0.3
+numpy==1.24.3
+ sqlalchemy==2.0.19
+ PyYAML
+ spacy==3.8.11
