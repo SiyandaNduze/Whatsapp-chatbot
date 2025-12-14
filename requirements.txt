@@ -3,5 +3,11 @@ chatterbot-corpus==1.2.0
 pandas==2.0.3
 numpy==1.24.3
  sqlalchemy==2.0.19
- PyYAML
+ PyYAML==5.1
  spacy==3.8.11
+
+ # Add these for AI model
+torch==2.1.0
+transformers==4.35.0
+datasets==2.14.0
+tqdm==4.67.1
